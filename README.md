@@ -11,10 +11,10 @@ python simulation of 3 body problem, using pygame
 
 ## Screenshots
 Trails Off
-![image](https://github.com/cartertrafton/3BodyProblem/screenshot.png)
+![trails off](https://raw.githubusercontent.com/cartertrafton/3BodyProblem/master/screenshot.png)
 
 Trails On
-![image](https://github.com/cartertrafton/3BodyProblem/screenshot_1.png)
+![trails on](https://raw.githubusercontent.com/cartertrafton/3BodyProblem/master/screenshot_1.png)
 
 
 ## Installation
